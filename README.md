@@ -1,1 +1,2 @@
-# cod3r_javascript_curso
+# Curso de Javascript
+Exemplos práticos, anotações e exercícios realizados durante o curso de Javascript da Cod3r
